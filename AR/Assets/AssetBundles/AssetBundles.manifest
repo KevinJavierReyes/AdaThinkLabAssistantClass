@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3894777055
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: nino
+      Dependencies: {}
+    Info_1:
+      Name: animales
+      Dependencies: {}
+    Info_2:
+      Name: perro
+      Dependencies: {}
